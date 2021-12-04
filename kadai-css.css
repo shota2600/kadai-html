@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+    
+}
+
+h1,h2,h3 {
+    margin-top: 0;
+    line-height: 1.6;
+}
+
+    
+header {
+    width: 1000px;
+    background-color: #ffcccc;
+}
+
+#wrapper {
+    display: flex;
+    text-align: left;
+    width: 1000px;
+}
+
+#main {
+    padding: 20px 0;
+    width: 700px;
+    background-color: #ccffcc;
+}
+
+
+#menu {
+    width: 300px;
+    background-color: #ccccff;
+}
+
+footer {
+    width: 1000px;
+    background-color: #ffccff;
+}
